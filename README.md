@@ -23,7 +23,7 @@ New-NetIPAddress -IPAddress "192.168.1.5" -PrefixLength "24" -InterfaceIndex (Ge
 Set-DnsClientServerAddress -InterfaceIndex (Get-NetAdapter).ifIndex -ServerAddresses ("127.0.0.1")
 Rename-NetAdapter -Name Ethernet0 -NewName LAN
 ```
-
+![Image](https://github.com/user-attachments/assets/412eb7de-4dd6-4dbf-8dba-7b6719e37368)
 ---
 
 ### ⚙️ 3. Installation des rôles et fonctionnalités

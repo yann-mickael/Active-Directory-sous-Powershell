@@ -128,8 +128,9 @@ Add-ADGroupMember -Identity $Groupe -Members $UtilisateurLogin
 
 ### 📸 Captures d'écran
 
-![Capture 1](image.png)  
-![Capture 2](image-1.png)
+![Image](https://github.com/user-attachments/assets/32bc932e-b94d-451e-89a5-3a9126dc7a60)
+
+![Image](https://github.com/user-attachments/assets/febba07f-2d95-4b83-82c0-84d5f1407733)
 
 ---
 
